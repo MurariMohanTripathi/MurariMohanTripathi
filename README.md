@@ -3,7 +3,16 @@
   <img src="https://komarev.com/ghpvc/?username=MurariMohanTripathi&label=Profile%20views&color=0e75b6&style=flat" alt="MurariMohanTripathi" />
 </p>
 
-- 🔭 I’m working on: **CampusCare** & personal 3D portfolio  
+- 🔭 I’ve built a full-stack role-based project called **CampusCare** – a complaint management and announcement system for colleges.  
+  🚀 Features include:
+  - Role-based access for Students, Admins, and SuperAdmins  
+  - Firebase Realtime Database for backend with Auth integration  
+  - Students can raise and track complaints  
+  - Admins can change complaint statuses and reply via an inbox system  
+  - SuperAdmins control departments, plans, and admin management  
+  - Razorpay integration for subscription plans (Free, Premium, Enterprise)  
+  - Upcoming: Firestore upgrade, AI-based chatbot, analytics dashboard  
+
 - 🌱 Currently learning: **Three.js**, **Machine Learning**  
 - 👨‍💻 All of my projects are available at [muraritripathi.xyz](https://muraritripathi.xyz)  
 - 📫 How to reach me: **tripathimurari599@gmail.com**
@@ -34,5 +43,5 @@
 ---
 
 ## 💼 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/murarimohantripathi/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murarimohantripathi/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathimurari599@gmail.com)
