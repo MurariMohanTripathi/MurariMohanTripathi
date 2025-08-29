@@ -1,45 +1,54 @@
 <h1 align="center">Hi 👋, I'm Murari Mohan Tripathi</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MurariMohanTripathi&label=Profile%20views&color=0e75b6&style=flat" alt="MurariMohanTripathi" />
+  <img src="https://komarev.com/ghpvc/?username=MurariMohanTripathi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  🎓 Final-year B.Tech (CSE) Student | 💻 Full-Stack Developer | 🧠 Tech Explorer
+  🎓 Final-year <b>B.Tech (CSE)</b> Student | 💻 Full-Stack Developer | 🧠 Tech Explorer | 🚀 Lifelong Learner
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-- 🔭 Currently working on full-stack projects focused on real-world applications.  
+- 🔭 Currently building **real-world full-stack projects**.  
 - 🌐 Portfolio: [muraritripathi.xyz](https://muraritripathi.xyz)  
-- 💡 Exploring: **Three.js**, **Machine Learning**, and **Advanced Firebase**  
-- 🗂️ Open to frontend, full-stack, and AI-integrated roles  
+- 💡 Exploring **Three.js**, **Machine Learning**, and **Advanced Firebase**  
+- 🌱 Passionate about **scalable web apps** & **AI-powered solutions**  
+- 🗂️ Open to **Frontend, Full-Stack, and AI-integrated roles**  
 - 📬 Reach me at: **tripathimurari599@gmail.com**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects  
 
-### 📌 [CampusCare](https://players-e502c.web.app/) — *College Complaint & Announcement System*
-
-- Role-based app for **Students, Admins, and SuperAdmins**
-- Complaint system with live status updates and admin-student inbox
-- Integrated **Firebase Auth** & **Realtime DB**
-- Subscription plan system using **Razorpay** (Free, Premium, Enterprise)
-- Admin access control and analytics panel (coming soon)
-- Future: AI-powered complaint chatbot, Firestore upgrade
-
-### 📌 RevenueHub — *Dashboard for Lead Management & Analytics*
-
-- Features dynamic charts using **Chart.js**
-- Responsive UI with **Tailwind CSS**
-- Role-based routing and component rendering
-- Modules: Leads, Analytics, Reports, User Control
+### 📌 [CampusCare](https://players-e502c.web.app/) — *College Complaint & Announcement System*  
+- Role-based dashboards for **Students, Admins & SuperAdmins**  
+- Complaint management with **status tracking + admin-student inbox**  
+- Integrated **Firebase Auth + Realtime DB**  
+- Subscription plans with **Razorpay** (Free, Premium, Enterprise)  
+- 🔮 Future: **AI-powered chatbot** & Firestore upgrade  
 
 ---
 
-## 🛠️ Tech Stack
+### 📖 [Blogify](http://blogify-env.eba-5wpg9p66.ap-south-1.elasticbeanstalk.com/) — *Full-Stack Blogging Platform*  
+Blogify is a modern blogging platform where users can **create, edit, and share blogs** with ease.  
+- Tech: **React.js + Node.js/Express + MongoDB**  
+- Features: **Authentication, Rich Text Editor, Responsive UI**  
+- Deployment: **AWS with Cloud Storage Integration**  
+
+---
+
+### 📊 RevenueHub — *Lead Management & Analytics Dashboard*  
+- 📈 Dynamic charts using **Chart.js**  
+- 🎨 Responsive UI with **Tailwind CSS**  
+- 🔐 Role-based routing & secure component rendering  
+- 📂 Modules: Leads, Analytics, Reports, User Control  
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -58,7 +67,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MurariMohanTripathi&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -67,7 +76,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MurariMohanTripathi&theme=gruvbox&column=7" alt="Trophies" />
@@ -75,7 +84,7 @@
 
 ---
 
-## 🧠 GitHub Achievements
+## 🧠 GitHub Achievements  
 
 <p align="center">
   <img src="https://github.com/MurariMohanTripathi/MurariMohanTripathi/raw/main/assets/achievements.gif" alt="Achievements GIF" />
@@ -83,7 +92,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/murarimohantripathi/">
