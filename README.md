@@ -36,9 +36,9 @@ AI + community-driven system to validate news credibility and prevent misinforma
 - Multiple UI themes  
 
 **Links**  
-Frontend: [Add Link]  
-Backend: [Add Link]  
-Live: [Add Link]
+Frontend: https://github.com/MurariMohanTripathi/verify_frontend
+Backend: https://github.com/MurariMohanTripathi/verify_backend
+Live: https://verify-2db20.web.app/
 
 ---
 
@@ -47,7 +47,7 @@ Live: [Add Link]
 - Role-based dashboards (Student / Admin / SuperAdmin)  
 - Complaint tracking with status + inbox system  
 - Firebase Auth + Realtime Database  
-- Razorpay-based subscription plans  
+  
 
 Live: https://players-e502c.web.app/
 
