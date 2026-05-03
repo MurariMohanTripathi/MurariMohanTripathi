@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/murarimohantripathi/">LinkedIn</a> •
   <a href="https://muraritripathi.xyz">Portfolio</a> •
-  <a href="mailto:tripathimurari599@gmail.com">Email</a>
+  <a href="mailto:tripathimurari599@gmail.com">Email</a> •
   <a href="https://www.leetcode/com/u/murarimohantripathi/">Leetcode</a>
 </p>
 
