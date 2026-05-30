@@ -24,6 +24,29 @@
 
 ## Projects
 
+### Portzen - a smart and best portfolio website builder for developers
+
+Various themes and various detailed and customizable portfolio website one can build on this platform.
+Portzen provides you the best portfolio visibility and best username functionality .
+
+**Key Features**
+ - Dynamic sections
+ - Theme System
+ - Public portfolio URL like portzen.in/username
+ - Username availability checking
+ - Drag/drop section ordering
+ - pre designed templates
+ - Developer stories
+ - ### Custom code mode with sanitized HTML/CSS
+ - Basic analytics model: views, visits, clicks, bookmarks
+
+**Links**  
+Github: https://github.com/MurariMohanTripathi/portzen_frontend
+Live: https://portzen.in
+
+---
+
+
 ### Verify — AI-Powered News Verification Platform
 
 AI + community-driven system to validate news credibility and prevent misinformation.
