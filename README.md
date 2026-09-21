@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/murarimohantripathi/">LinkedIn</a> •
-  <a href="https://muraritripathi.xyz">Portfolio</a> •
+  <a href="https://portzen.in/muraritripathi">Portfolio</a> •
   <a href="mailto:tripathimurari599@gmail.com">Email</a> •
   <a href="https://leetcode.com/u/murarimohantripathi/">Leetcode</a>
 </p>
@@ -131,32 +131,6 @@ Live: https://players-e502c.web.app/
 
 ---
 
-### Blogify — Blogging Platform
-
-A full blogging application focused on publishing, authentication, content management, and user interaction.
-
-**Key Features**
-- User authentication
-- Blog creation and publishing
-- Rich-text content editing
-- Comments and user interaction
-- Cloud deployment
-
-Live: http://blogify-env.eba-5wpg9p66.ap-south-1.elasticbeanstalk.com/
-
----
-
-### RevenueHub — Analytics Dashboard
-
-An analytics-focused dashboard for presenting business and application metrics.
-
-**Key Features**
-- Data visualization
-- Role-based dashboard rendering
-- Responsive dashboard interface
-- Structured presentation of business metrics
-
----
 
 ## Current Job Preference
 
