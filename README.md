@@ -44,7 +44,7 @@ I enjoy understanding how a system behaves end-to-end — from an incoming reque
 
 ## 💼 Professional Experience
 
-### Associate Software Engineer — Webkul Software Pvt. Ltd., Noida
+### Associate Software Engineer — Webkul Software Pvt. Ltd., Noida             [feb,2026 - sept,2026]
 
 Working on **QloApps**, a production hotel booking and property-management platform with complex booking, checkout, payment, room, order, customer, and admin workflows.
 
